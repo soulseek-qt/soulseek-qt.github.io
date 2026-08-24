@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>SoulseekQt News</title>
+<link href="https://www.slsknet.org/"/>
+<link rel="self" href="https://www.slsknet.org/atom.xml"/>
+<id>https://www.slsknet.org/</id>
+<updated>2026-04-30T00:00:00Z</updated>
+<entry>
+<title>New Windows and macOS builds</title>
+<link href="https://www.slsknet.org/blog/2026-04-30-release.html"/>
+<id>https://www.slsknet.org/blog/2026-04-30-release.html</id>
+<updated>2026-04-30T00:00:00Z</updated>
+<summary>The latest official desktop builds are available for Windows and macOS, with an official Linux build also listed.</summary>
+</entry>
+<entry>
+<title>Timer fixes across international locales</title>
+<link href="https://www.slsknet.org/blog/2024-06-26-timers.html"/>
+<id>https://www.slsknet.org/blog/2024-06-26-timers.html</id>
+<updated>2024-06-26T02:51:00Z</updated>
+<summary>A maintenance release addressed timer behavior affecting certain international regional settings.</summary>
+</entry>
+<entry>
+<title>A newer macOS build</title>
+<link href="https://www.slsknet.org/blog/2021-02-16-macos.html"/>
+<id>https://www.slsknet.org/blog/2021-02-16-macos.html</id>
+<updated>2021-02-16T10:21:00Z</updated>
+<summary>A refreshed macOS release improved compatibility and modernized the client experience.</summary>
+</entry>
+</feed>

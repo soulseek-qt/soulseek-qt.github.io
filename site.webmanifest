@@ -1,0 +1,10 @@
+{
+  "name":"SoulseekQt",
+  "short_name":"SoulseekQt",
+  "description":"The official Soulseek file-sharing client.",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#11120f",
+  "theme_color":"#11120f",
+  "icons":[{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}

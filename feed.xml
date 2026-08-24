@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>SoulseekQt News</title>
+<link>https://www.slsknet.org/</link>
+<description>News and selected release updates from SoulseekQt.</description>
+<language>en</language>
+<item>
+<title>New Windows and macOS builds</title>
+<link>https://www.slsknet.org/blog/2026-04-30-release.html</link>
+<guid>https://www.slsknet.org/blog/2026-04-30-release.html</guid>
+<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+<description>The latest official desktop builds are available for Windows and macOS, with an official Linux build also listed.</description>
+</item>
+<item>
+<title>Timer fixes across international locales</title>
+<link>https://www.slsknet.org/blog/2024-06-26-timers.html</link>
+<guid>https://www.slsknet.org/blog/2024-06-26-timers.html</guid>
+<pubDate>Wed, 26 Jun 2024 02:51:00 GMT</pubDate>
+<description>A maintenance release addressed timer behavior affecting certain international regional settings.</description>
+</item>
+<item>
+<title>A newer macOS build</title>
+<link>https://www.slsknet.org/blog/2021-02-16-macos.html</link>
+<guid>https://www.slsknet.org/blog/2021-02-16-macos.html</guid>
+<pubDate>Tue, 16 Feb 2021 10:21:00 GMT</pubDate>
+<description>A refreshed macOS release improved compatibility and modernized the client experience.</description>
+</item>
+</channel>
+</rss>
