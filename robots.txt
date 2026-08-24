@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.slsknet.org/sitemap.xml
+Sitemap: https://soulseek-qt.github.io/sitemap.xml
